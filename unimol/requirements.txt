@@ -1,1 +1,1 @@
-git+git://github.com/dptech-crop/Uni-Core.git@stable#egg=Uni-Core
+git+https://github.com/dptech-corp/Uni-Core.git@stable#egg=Uni-Core
